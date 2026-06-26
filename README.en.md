@@ -29,6 +29,7 @@ PAN-OS Monitor is a Chrome MV3 browser extension that connects directly to Palo 
 ## Screenshots
 
 > <img width="1513" height="855" alt="image" src="https://github.com/user-attachments/assets/9a1727aa-ac9b-42fe-ab09-903668652d9d" />
+--
 > <img width="1238" height="858" alt="image" src="https://github.com/user-attachments/assets/e90431cf-69b6-42ac-83c9-65d68625449e" />
 
 
