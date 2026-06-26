@@ -11,7 +11,7 @@
 
 ---
 
-## Downloads
+## 下载链接
 Download the latest release from [release page](https://github.com/ro-qq/panos-monitor/releases).
 
 ---
@@ -21,6 +21,15 @@ Download the latest release from [release page](https://github.com/ro-qq/panos-m
 ### 项目简介
 
 PAN-OS Monitor 是一款基于 Chrome MV3 架构的浏览器扩展程序，通过 PAN-OS XML API 直接连接 Palo Alto Networks 防火墙，实时采集并可视化设备的健康状态与性能数据。**无需服务器、无需数据库、无需任何中间件**，安装扩展即可使用。
+
+---
+
+## 界面
+
+> <img width="1547" height="872" alt="image" src="https://github.com/user-attachments/assets/e5914657-0824-4bc7-9a89-0568b176507a" />
+> <img width="1250" height="866" alt="image" src="https://github.com/user-attachments/assets/4217e174-020f-4d8b-99ee-d78ea26ac412" />
+
+---
 
 ### 功能概览
 
