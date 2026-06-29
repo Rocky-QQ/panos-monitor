@@ -15,7 +15,7 @@ Download the latest release from [release page](https://github.com/ro-qq/panos-m
 
 ---
 
-## Read this in other languages: [简体中文](README.zhcn.md),[English](README.en.md)
+## Read this in other languages: [简体中文](README.md),[English](README.en.md)
 
 ---
 
